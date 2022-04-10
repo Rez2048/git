@@ -6,4 +6,14 @@ h1
  {
    color: #fff;
    background-color: red;
+
+ }
+
+ h2
+ {
+
+   resize: both;
+   grid-column: auto;
+   grid-auto-columns: 65;
+
  }
